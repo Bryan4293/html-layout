@@ -1,0 +1,44 @@
+.parent{
+    background-color: lightgray;
+    width: 100vw;
+    height: 12vh;
+    margin:inline-block;
+    padding-top: 10px
+}
+.baby{
+    background-color: rgb(78, 78, 252);
+    width: 10vw;
+    height: 10vh;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin:inline-block;
+
+}
+.teen{
+    background-color: white;
+    width: 100vw;
+    height: 22vh;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 50px
+}
+.child1{
+    background-color:  rgb(78, 78, 252);
+    width: 100vw;
+    height: 15vh;
+}
+.child2{
+    background-color: turquoise;
+    width: 100vw;
+    height: 15vh;
+}
+.child3{
+    background-color: rgb(171, 230, 53);
+    width: 100vw;
+    height: 15vh;
+}
+.child4{
+    background-color: rgb(230, 230, 3);
+    width: 100vw;
+    height: 15vh;
+}

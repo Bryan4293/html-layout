@@ -1,0 +1,27 @@
+ .top-border{
+    background-color: rgb(19, 18, 18);
+    width: 100vw;
+    height:15vh;
+    margin: 0;
+
+}
+.right-border{
+    background-color: lightgray;
+    width: 15vw;
+    height: 85vh;
+    float: right;
+    }
+.left-border{
+    background-color: lightgray;
+    width: 15vw;
+    height: 85vh;
+    float: left;
+}  
+.bottom-border{
+    background-color: rgb(19, 18, 18);
+    width: 70vw;
+    height: 15vh;
+    position: absolute ;
+   bottom: 0;
+   margin-left: 15vw;
+}
